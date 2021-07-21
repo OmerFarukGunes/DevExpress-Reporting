@@ -1,0 +1,4 @@
+Devexpress ile raporlama ve hesaplama işlemleri için yapılmış bir form uygulamasıdır.
+Varolan databasi localinize attıktan sonra connection string bağlantısını yapmalısınız.
+Database bağlantısından sonra açılan formda girilen öğrenci id sine ait ders bilgileri gelecektir.
+Save pdf dendiği zaman karşınıza taslak halinde bir karne görünümü gelecektir.
